@@ -2,9 +2,8 @@
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/XML-D14836?style=for-the-badge&logoColor=white" />
-<br></br>
+
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<br></br>
+
 <img src="https://img.shields.io/badge/Android%20STUDIO-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<br></br>
 
